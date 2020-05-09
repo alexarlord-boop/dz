@@ -1,0 +1,4 @@
+git checkout master
+git merge boots_buttons
+git merge hat
+git diff master hat
